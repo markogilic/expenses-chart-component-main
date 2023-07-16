@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Links
 - [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-expenses-chart-component-_VsVdriRyp)
-- [Live Page](https://markogilic.github.io/results-summary-component/)
+- [Live Page](https://markogilic.github.io/expenses-chart-component-main/)
 
 ## Author
 
